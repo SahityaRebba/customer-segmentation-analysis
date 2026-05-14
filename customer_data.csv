@@ -1,0 +1,21 @@
+Customer_ID,Name,Age,City,Total_Orders,Total_Spent,Category,Last_Order_Date
+C001,Arun Kumar,28,Mumbai,12,25000,Electronics,2026-05-10
+C002,Divya Sharma,32,Delhi,8,18000,Clothing,2026-05-12
+C003,Rahul Verma,25,Bangalore,15,45000,Electronics,2026-05-01
+C004,Neha Gupta,35,Mumbai,20,65000,Home,2026-05-14
+C005,Vikram Singh,42,Chennai,5,8000,Books,2026-04-15
+C006,Pooja Reddy,29,Delhi,10,22000,Beauty,2026-05-13
+C007,Amit Patel,38,Bangalore,4,6000,Electronics,2026-04-20
+C008,Shreya Joshi,26,Mumbai,14,35000,Clothing,2026-05-14
+C009,Manish Tiwari,45,Delhi,25,85000,Electronics,2026-05-05
+C010,Priyanka Das,31,Chennai,7,12000,Beauty,2026-05-09
+C011,Karthik Nair,27,Bangalore,6,9000,Books,2026-04-28
+C012,Anjali Mehta,33,Mumbai,18,48000,Home,2026-05-13
+C013,Rohan Das,24,Chennai,3,4000,Electronics,2026-03-25
+C014,Sneha Kapoor,30,Delhi,11,28000,Clothing,2026-05-12
+C015,Aditya Khanna,36,Mumbai,8,15000,Beauty,2026-04-10
+C016,Kavita Iyer,41,Bangalore,22,55000,Home,2026-05-14
+C017,Rajesh Nair,34,Delhi,9,19000,Electronics,2026-05-01
+C018,Meera Sen,28,Mumbai,13,32000,Clothing,2026-05-10
+C019,Siddharth Roy,39,Chennai,4,7000,Books,2026-03-30
+C020,Tanvi Malhotra,26,Bangalore,16,42000,Beauty,2026-05-14
